@@ -1,0 +1,14 @@
+﻿type,stage,activity,one-time,cost,d1,d7,LTV,CPI
+core,1,add new game mode,0,10,10%,5%,15%,0
+core,1,change balance,0,1,5%,5%,0,0
+core,1,change core gameplay,0,40,15%,10%,0,0
+meta-game,1,do basic meta,0,10,5%,2%,0,0
+meta-game,1,do half-baked meta,0,15,10%,5%,10%,0
+meta-game,1,do fancy meta-game,0,40,15%,10%,25%,0
+monetization,1,add shop,1,5,0%,0%,100%,0
+monetization,1,a/b test prices,0,1,0%,0%,25%,0
+monetization,1,run special offers,0,5,0%,0%,50%,0
+marketing,1,create new ad video,0,2,0%,0%,0%,-20%
+marketing,1,change store page,0,2,0%,0%,0%,-50%
+marketing,1,localize the game,1,3,0%,0%,0%,
+add OmNom,1,add OmNom to the game,1,10,20%,10%,0%,-25%
